@@ -11,6 +11,7 @@ Also is my first AI project.
 
 ## Features | 功能
 - Classifies points based on their position relative to the line **x + y = 1**
+
   判斷點座標在斜線**x + y = 1**的左右側
 
 ---
@@ -26,5 +27,6 @@ Also is my first AI project.
 ---
 ## Note | 註
 - The test script is not yet available.
+
   尚未放上測試用程式
 
