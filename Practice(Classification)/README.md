@@ -29,4 +29,11 @@ Also is my first AI project.
 - The test script is not yet available.
 
   尚未放上測試用程式
+  
+- The data is too large , so won't be uploaded
 
+  測試資料過大，不會上傳
+  
+- The path needs to be modified
+ 
+  路徑需做修改
